@@ -1,2 +1,3 @@
 print("Hej")
-print("Hejdå")
+print("Bye")
+print("Yes")
